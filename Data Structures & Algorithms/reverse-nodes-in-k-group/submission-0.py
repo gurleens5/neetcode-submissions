@@ -17,7 +17,7 @@ class Solution:
 
             nextGroup = kth.next
 
-            #reverse
+            
             prev = nextGroup
             curr = prevGroup.next
 
